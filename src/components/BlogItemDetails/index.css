@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.title-items {
+  font-size: 20px;
+  text-align: center;
+}
+.BlogItemDetails {
+  width: 80%;
+}
+.total-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.avatar-item {
+  height: 20px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.flex-con {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+}
+.about-cont {
+  width: 80%;
+}
+
+.imageItems {
+  height: 40%;
+  width: 125%;
+}
+.para {
+  width: 125%;
+}
